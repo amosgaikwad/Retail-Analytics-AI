@@ -4,7 +4,7 @@ An end-to-end **Retail Analytics Platform** built using **Python, Streamlit, Mac
 
 ## 🚀 Live Demo
 
-🔗 https://retail-analytics-ai-kn9bsrxmvm392karmt7gch.streamlit.app/
+🔗 https://retail-analytics-ai-amos.streamlit.app/
 
 ---
 
@@ -159,18 +159,6 @@ Retail-Analytics-AI
 
 ---
 
-# 📈 Future Enhancements
-
-- Cloud Database Integration
-- User Authentication
-- Real-time Sales Dashboard
-- Inventory Prediction
-- Customer Recommendation System
-- Deep Learning Forecasting
-- Export Reports as PDF
-
----
-
 # 👨‍💻 Developer
 
 **Amos Vivek Gaikwad**
@@ -190,8 +178,3 @@ MIT ADT University, Pune
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
----
-
-## 📜 License
-
-This project is intended for educational and portfolio purposes.
