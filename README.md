@@ -1,4 +1,9 @@
 # 📊 Retail Analytics & AI-Powered Sales Forecasting Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 An end-to-end **Retail Analytics Platform** built using **Python, Streamlit, Machine Learning, and Business Intelligence** to help businesses analyze retail sales, discover valuable insights, and forecast future revenue.
 
