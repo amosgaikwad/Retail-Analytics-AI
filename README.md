@@ -89,6 +89,7 @@ Retail-Analytics-AI
 # 📸 Application Modules
 
 ## 🏠 Home
+<img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/7504cd50-104a-49c5-b43c-acc365b7b3d3" />
 
 - Project Overview
 - KPI Summary
