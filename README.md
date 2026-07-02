@@ -89,11 +89,13 @@ Retail-Analytics-AI
 # 📸 Application Modules
 
 ## 🏠 Home
-<img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/7504cd50-104a-49c5-b43c-acc365b7b3d3" />
 
 - Project Overview
 - KPI Summary
 - Navigation Panel
+
+  
+<img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/7504cd50-104a-49c5-b43c-acc365b7b3d3" />
 
 ---
 
@@ -104,6 +106,9 @@ Retail-Analytics-AI
 - KPI Cards
 - Interactive Charts
 
+<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/228604ca-b489-4168-832d-b45d2d358b83" />
+
+
 ---
 
 ## 📈 Exploratory Data Analysis
@@ -113,6 +118,9 @@ Retail-Analytics-AI
 - Monthly Trends
 - Regional Insights
 
+  <img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/dc577a5f-e52a-4008-8f72-d1fb3e0f28b9" />
+
+
 ---
 
 ## 🤖 Machine Learning
@@ -121,6 +129,8 @@ Retail-Analytics-AI
 - Customer & Store Analysis
 - Predictive Analytics
 
+  <img width="1917" height="916" alt="image" src="https://github.com/user-attachments/assets/460dda27-cefa-47d0-a9bb-6d7eb8088185" />
+
 ---
 
 ## 📉 Revenue Forecasting
@@ -128,6 +138,8 @@ Retail-Analytics-AI
 - Time Series Forecasting
 - Future Revenue Prediction
 - Interactive Forecast Charts
+
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/53bcb130-6f62-497c-9a02-7570f256c0b5" />
 
 ---
 
@@ -139,6 +151,7 @@ Retail-Analytics-AI
 - Education & Certifications
 - Contact Information
 
+  
 ---
 
 # 📊 Technologies Used
